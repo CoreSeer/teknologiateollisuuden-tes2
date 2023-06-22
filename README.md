@@ -585,7 +585,7 @@ Sopimukset on tehtävä kirjallisesti ja ne voivat koskea kalenterivuotta kerral
 Mikäli kuukausipalkkaisen työntekijän työajan tasaamisvapaan määrästä tai antamisesta on tämän sopimuskohdan mukaisesti toisin sovittu, hänelle maksetaan erillinen kiinteä kuukausikorvaus kaikilta kalenterikuukausilta. Sitä ei oteta huomioon muiden palkkaerien laskennassa.
 
 Erillisen kiinteän kuukausikorvauksen suuruus lasketaan seuraavan kaavan mukaan: 
-kuukausipalkka * 0,051 * työajaksi sovitun tasaamisvapaan määrä 100 tuntia (12,5 päivää)
+kuukausipalkka kertaa 0,051 kertaa työajaksi sovitun tasaamisvapaan määrä jaettuna 100 tuntia (12,5 päivää)
 
 ###### C. Työajan vähentäminen
 Työajan vähentämiseksi voidaan paikallisesti työnantajan ja pääluottamusmiehen välillä sopia (kehyssopimus) siitä, että työntekijällä on mahdollista työsuhteensa aikana sopia työnantajan edustajan kanssa lomarahan tai sen osan vaihtamisesta vastaavaan palkalliseen vapaaseen. Sopimukset on tehtävä kirjallisesti.
